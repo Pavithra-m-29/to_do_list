@@ -25,6 +25,7 @@ How to Use
 3. Click the "+" button to add the task.
 4. Mark tasks as completed when finished.
 5. Delete tasks when no longer needed.
+   
 6.final output screen
 <img width="1920" height="1027" alt="Screenshot 2026-06-15 195455" src="https://github.com/user-attachments/assets/93bde5e3-a37a-4149-a85f-65295a0767ad" />
 
